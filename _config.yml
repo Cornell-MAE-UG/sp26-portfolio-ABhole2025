@@ -14,7 +14,7 @@ title_separator: "-"
 subtitle:
 name: "Abha Bhole"
 description: "Abha Bhole - Projects and CV"
-baseurl: "/fa25-portfolio-ABhole2025"   # Correct GitHub Pages style
+baseurl: "/sp26-portfolio-ABhole2025"   # Correct GitHub Pages style
 
 # Theme and Style
 theme: jekyll-theme-minimal
